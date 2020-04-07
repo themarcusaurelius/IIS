@@ -1,4 +1,4 @@
-## Parses access and error logs created by the Internet Information Services (IIS) HTTP server.
+### Parses access and error logs created by the Internet Information Services (IIS) HTTP server.
 
 When you run the module, it performs a few tasks under the hood:
 
