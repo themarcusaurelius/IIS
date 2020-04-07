@@ -41,7 +41,7 @@ Password: _PLACEHOLDER_PASSWORD_
 Elasticsearch API Endpoint: _PLACEHOLDER_API_ENDPOINT_
 ```
 
-5) Choose the ```Nginx``` module and click OK.
+5) Choose the ```Iss``` module and click OK.
 
 This will install and run Filebeat with the module you enabled set to that particular modules default file path.
 
@@ -55,7 +55,7 @@ This will install and run Filebeat with the module you enabled set to that parti
 1) In Powershell, as administrator, CD into the ```Filebeat``` folder and enter the following command:
 
 ```
-.\filebeat.exe modules enable nginx
+.\filebeat.exe modules enable iss
 ```
 
 2) Restart Filebeat to initate the changes.
